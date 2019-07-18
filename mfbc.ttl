@@ -22,12 +22,12 @@ rdfs:range schema:Thing.
 mbfc:CredibilityScope
 a rdfs:Class;
 schema:name "Credibility Scope";
-rdfs:subClassOf schema:Rating;
+rdfs:subClassOf schema:Rating.
 
 mbfc:Bias
 a rdfs:Class;
 schema:name "Bias Rating";
-rdfs:subClassOf schema:Rating;
+rdfs:subClassOf schema:Rating.
 
 
 mbfc:HIGH
