@@ -161,7 +161,7 @@
 <http://newatlas.com#this> 
  a schema:WebSite; 
  schema:name "New Atlas"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/new-atlas/>,<https://www.facebook.com/tr?id>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/new-atlas/>;
  schema:description"""Fact and Bias check for "newatlas.com"""";
  mbfc:hasFacts mbfc:HIGH;
  mbfc:hasBias mbfc:PRO-SCIENCE.
@@ -1257,7 +1257,7 @@
 <http://thefederalistpapers.org#this> 
  a schema:WebSite; 
  schema:name "The Federalist Papers Project"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/the-federalist-papers-project/>,<https://www.facebook.com/tr?id>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/the-federalist-papers-project/>;
  schema:description"""Fact and Bias check for "thefederalistpapers.org"""";
  mbfc:hasFacts mbfc:FAKE;
  mbfc:hasBias mbfc:FAKE-NEWS.
@@ -1753,7 +1753,7 @@
 <https://www.fastcompany.com#this> 
  a schema:WebSite; 
  schema:name "Fast Company Magazine"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/fast-company-magazine/>,<https://www.facebook.com/tr?id>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/fast-company-magazine/>;
  schema:description"""Fact and Bias check for "fastcompany.com"""";
  mbfc:hasFacts mbfc:HIGH;
  mbfc:hasBias mbfc:LEFT-CENTER.
@@ -2873,7 +2873,7 @@
 <https://theihs.org#this> 
  a schema:WebSite; 
  schema:name "Institute for Humane Studies"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/institute-for-humane-studies/>,<https://www.facebook.com/tr?id>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/institute-for-humane-studies/>;
  schema:description"""Fact and Bias check for "theihs.org"""";
  mbfc:hasFacts mbfc:HIGH;
  mbfc:hasBias mbfc:RIGHT-CENTER.
@@ -3017,7 +3017,7 @@
 <https://www.quantamagazine.org#this> 
  a schema:WebSite; 
  schema:name "Quanta Magazine"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/quanta-magazine/>,<https://www.facebook.com/tr?id>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/quanta-magazine/>;
  schema:description"""Fact and Bias check for "quantamagazine.org"""";
  mbfc:hasFacts mbfc:VERY-HIGH;
  mbfc:hasBias mbfc:PRO-SCIENCE.
@@ -3193,7 +3193,7 @@
 <http://metro.co.uk#this> 
  a schema:WebSite; 
  schema:name "Metro UK"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/metro-uk/>,<https://www.facebook.com/tr?id>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/metro-uk/>;
  schema:description"""Fact and Bias check for "metro.co.uk"""";
  mbfc:hasFacts mbfc:HIGH;
  mbfc:hasBias mbfc:LEFT-CENTER.
@@ -3881,7 +3881,7 @@
 <http://www.voiceofsandiego.org#this> 
  a schema:WebSite; 
  schema:name "Voice of San Diego"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/voice-of-san-diego/>,<https://www.facebook.com/tr?id>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/voice-of-san-diego/>;
  schema:description"""Fact and Bias check for "voiceofsandiego.org"""";
  mbfc:hasFacts mbfc:HIGH;
  mbfc:hasBias mbfc:CENTER.
@@ -4393,7 +4393,7 @@
 <http://www.christianitytoday.com#this> 
  a schema:WebSite; 
  schema:name "Christianity Today"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/christianity-today/>,<https://www.facebook.com/tr?id>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/christianity-today/>;
  schema:description"""Fact and Bias check for "christianitytoday.com"""";
  mbfc:hasFacts mbfc:HIGH;
  mbfc:hasBias mbfc:RIGHT-CENTER.
@@ -4817,7 +4817,7 @@
 <https://americanlookout.com#this> 
  a schema:WebSite; 
  schema:name "American Lookout"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/american-lookout/>,<https://www.facebook.com/tr?id>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/american-lookout/>;
  schema:description"""Fact and Bias check for "americanlookout.com"""";
  mbfc:hasFacts mbfc:FAKE;
  mbfc:hasBias mbfc:FAKE-NEWS.
@@ -4969,7 +4969,7 @@
 <http://www.dailymail.co.uk/ushome/index.html#this> 
  a schema:WebSite; 
  schema:name "Daily Mail"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/daily-mail/>,<https://www.facebook.com/tr?id>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/daily-mail/>;
  schema:description"""Fact and Bias check for "dailymail.co.uk"""";
  mbfc:hasFacts mbfc:MIXED;
  mbfc:hasBias mbfc:RIGHT.
@@ -5017,7 +5017,7 @@
 <http://www.lifezette.com#this> 
  a schema:WebSite; 
  schema:name "LifeZette"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/lifezette/>,<https://www.facebook.com/tr?id>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/lifezette/>;
  schema:description"""Fact and Bias check for "lifezette.com"""";
  mbfc:hasFacts mbfc:MIXED;
  mbfc:hasBias mbfc:RIGHT.
@@ -5049,7 +5049,7 @@
 <https://www.campusreform.org#this> 
  a schema:WebSite; 
  schema:name "Campus Reform"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/campus-reform/>,<https://www.facebook.com/tr?id>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/campus-reform/>;
  schema:description"""Fact and Bias check for "campusreform.org"""";
  mbfc:hasFacts mbfc:MIXED;
  mbfc:hasBias mbfc:RIGHT.
@@ -5625,7 +5625,7 @@
 <https://www.teaparty.org#this> 
  a schema:WebSite; 
  schema:name "Tea Party Inc"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/tea-party-inc/>,<https://www.facebook.com/tr?id>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/tea-party-inc/>;
  schema:description"""Fact and Bias check for "teaparty.org"""";
  mbfc:hasFacts mbfc:FAKE;
  mbfc:hasBias mbfc:FAKE-NEWS.
@@ -5649,7 +5649,7 @@
 <http://www.thefiscaltimes.com#this> 
  a schema:WebSite; 
  schema:name "The Fiscal Times"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/the-fiscal-times/>,<https://www.facebook.com/tr?id>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/the-fiscal-times/>;
  schema:description"""Fact and Bias check for "thefiscaltimes.com"""";
  mbfc:hasFacts mbfc:HIGH;
  mbfc:hasBias mbfc:RIGHT-CENTER.
@@ -5705,7 +5705,7 @@
 <http://watchdog.org#this> 
  a schema:WebSite; 
  schema:name "Watchdog.org"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/watchdog-org/>,<https://www.facebook.com/tr?id>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/watchdog-org/>;
  schema:description"""Fact and Bias check for "watchdog.org"""";
  mbfc:hasFacts mbfc:MIXED;
  mbfc:hasBias mbfc:RIGHT-CENTER.
@@ -5801,7 +5801,7 @@
 <https://hellochristian.com#this> 
  a schema:WebSite; 
  schema:name "Hello Christian"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/hello-christian/>,<https://www.facebook.com/tr?id>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/hello-christian/>;
  schema:description"""Fact and Bias check for "hellochristian.com"""";
  mbfc:hasFacts mbfc:MIXED;
  mbfc:hasBias mbfc:CONSPIRACY.
@@ -6401,7 +6401,7 @@
 <http://www.macleans.ca#this> 
  a schema:WebSite; 
  schema:name "Maclean s Magazine"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/macleans-magazine/>,<https://www.facebook.com/tr?id>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/macleans-magazine/>;
  schema:description"""Fact and Bias check for "macleans.ca"""";
  mbfc:hasFacts mbfc:HIGH;
  mbfc:hasBias mbfc:LEFT-CENTER.
@@ -6657,7 +6657,7 @@
 <https://concernedwomen.org/blog#this> 
  a schema:WebSite; 
  schema:name "Concerned Women for America"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/concerned-women-america/>,<https://www.facebook.com/tr?id>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/concerned-women-america/>;
  schema:description"""Fact and Bias check for "concernedwomen.org"""";
  mbfc:hasFacts mbfc:FAKE;
  mbfc:hasBias mbfc:FAKE-NEWS.
@@ -6777,7 +6777,7 @@
 <http://theblacksphere.net#this> 
  a schema:WebSite; 
  schema:name "The Blacksphere (Kevin Jackson)"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/the-blacksphere-kevin-jackson/>,<https://www.facebook.com/tr?id>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/the-blacksphere-kevin-jackson/>;
  schema:description"""Fact and Bias check for "theblacksphere.net"""";
  mbfc:hasFacts mbfc:MIXED;
  mbfc:hasBias mbfc:RIGHT.
@@ -7041,7 +7041,7 @@
 <https://www.csis.org#this> 
  a schema:WebSite; 
  schema:name "Center for Strategic and International Studies"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/center-for-strategic-and-international-studies/>,<https://www.facebook.com/tr?id>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/center-for-strategic-and-international-studies/>;
  schema:description"""Fact and Bias check for "csis.org"""";
  mbfc:hasFacts mbfc:VERY-HIGH;
  mbfc:hasBias mbfc:CENTER.
@@ -7217,7 +7217,7 @@
 <http://votesmart.org#this> 
  a schema:WebSite; 
  schema:name "Vote Smart"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/votesmart/>,<https://www.facebook.com/tr?id>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/votesmart/>;
  schema:description"""Fact and Bias check for "votesmart.org"""";
  mbfc:hasFacts mbfc:HIGH;
  mbfc:hasBias mbfc:CENTER.
@@ -7657,7 +7657,7 @@
 <http://www.fairus.org#this> 
  a schema:WebSite; 
  schema:name "The Federation for American Immigration Reform (FAIR)"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/the-federation-for-american-immigration-reform-fair/>,<https://www.facebook.com/tr?id>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/the-federation-for-american-immigration-reform-fair/>;
  schema:description"""Fact and Bias check for "fairus.org"""";
  mbfc:hasFacts mbfc:FAKE;
  mbfc:hasBias mbfc:FAKE-NEWS.
@@ -7689,7 +7689,7 @@
 <https://healthy-vibes.com#this> 
  a schema:WebSite; 
  schema:name "Healthy Vibes"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/healthy-vibes/>,<https://www.facebook.com/tr?id>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/healthy-vibes/>;
  schema:description"""Fact and Bias check for "healthy-vibes.com"""";
  mbfc:hasFacts mbfc:LOW;
  mbfc:hasBias mbfc:CONSPIRACY.
@@ -7889,7 +7889,7 @@
 <http://100percentfedup.com#this> 
  a schema:WebSite; 
  schema:name "100 Percent Fed Up"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/100-percent-fed-up/>,<https://www.facebook.com/tr?id>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/100-percent-fed-up/>;
  schema:description"""Fact and Bias check for "100percentfedup.com"""";
  mbfc:hasFacts mbfc:FAKE;
  mbfc:hasBias mbfc:FAKE-NEWS.
@@ -8113,7 +8113,7 @@
 <http://www.frc.org#this> 
  a schema:WebSite; 
  schema:name "Family Research Council"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/family-research-council/>,<https://www.facebook.com/tr?id>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/family-research-council/>;
  schema:description"""Fact and Bias check for "frc.org"""";
  mbfc:hasFacts mbfc:FAKE;
  mbfc:hasBias mbfc:FAKE-NEWS.
@@ -8265,7 +8265,7 @@
 <http://evonomics.com#this> 
  a schema:WebSite; 
  schema:name "Evonomics"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/evonomics/>,<https://www.facebook.com/tr?id>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/evonomics/>;
  schema:description"""Fact and Bias check for "evonomics.com"""";
  mbfc:hasFacts mbfc:HIGH;
  mbfc:hasBias mbfc:LEFT.
@@ -8929,7 +8929,7 @@
 <http://thefederalist.com#this> 
  a schema:WebSite; 
  schema:name "The Federalist"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/the-federalist/>,<https://www.facebook.com/tr?id>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/the-federalist/>;
  schema:description"""Fact and Bias check for "thefederalist.com"""";
  mbfc:hasFacts mbfc:HIGH;
  mbfc:hasBias mbfc:RIGHT.
@@ -9585,7 +9585,7 @@
 <http://www.newsy.com#this> 
  a schema:WebSite; 
  schema:name "Newsy"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/newsy/>,<https://www.facebook.com/tr?id>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/newsy/>;
  schema:description"""Fact and Bias check for "newsy.com"""";
  mbfc:hasFacts mbfc:HIGH;
  mbfc:hasBias mbfc:LEFT-CENTER.
@@ -9825,7 +9825,7 @@
 <http://onlineconservativepress.com#this> 
  a schema:WebSite; 
  schema:name "Online Conservative Press"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/online-conservative-press/>,<https://www.facebook.com/tr?id>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/online-conservative-press/>;
  schema:description"""Fact and Bias check for "onlineconservativepress.com"""";
  mbfc:hasFacts mbfc:FAKE;
  mbfc:hasBias mbfc:FAKE-NEWS.
@@ -10041,7 +10041,7 @@
 <https://www.algemeiner.com#this> 
  a schema:WebSite; 
  schema:name "The Algemeiner Journal"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/the-algemeiner-journal/>,<https://www.facebook.com/tr?id>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/the-algemeiner-journal/>;
  schema:description"""Fact and Bias check for "algemeiner.com"""";
  mbfc:hasFacts mbfc:HIGH;
  mbfc:hasBias mbfc:RIGHT-CENTER.
@@ -10201,7 +10201,7 @@
 <http://digg.com#this> 
  a schema:WebSite; 
  schema:name "Digg"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/digg/>,<https://www.facebook.com/tr?id>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/digg/>;
  schema:description"""Fact and Bias check for "digg.com"""";
  mbfc:hasFacts mbfc:HIGH;
  mbfc:hasBias mbfc:LEFT-CENTER.
@@ -10337,7 +10337,7 @@
 <http://www.military.com#this> 
  a schema:WebSite; 
  schema:name "Military.com"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/military-com/>,<https://www.facebook.com/tr?id>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/military-com/>;
  schema:description"""Fact and Bias check for "military.com"""";
  mbfc:hasFacts mbfc:HIGH;
  mbfc:hasBias mbfc:CENTER.
@@ -10465,7 +10465,7 @@
 <https://www.truthorfiction.com#this> 
  a schema:WebSite; 
  schema:name "TruthOrFiction.com"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/truthorfiction-com/>,<https://www.facebook.com/tr?id>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/truthorfiction-com/>;
  schema:description"""Fact and Bias check for "truthorfiction.com"""";
  mbfc:hasFacts mbfc:VERY-HIGH;
  mbfc:hasBias mbfc:CENTER.
@@ -10745,7 +10745,7 @@
 <https://sfglobe.com#this> 
  a schema:WebSite; 
  schema:name "San Francisco Globe"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/san-francisco-globe/>,<https://www.facebook.com/tr?id>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/san-francisco-globe/>;
  schema:description"""Fact and Bias check for "sfglobe.com"""";
  mbfc:hasFacts mbfc:MIXED;
  mbfc:hasBias mbfc:LEFT-CENTER.
@@ -10801,7 +10801,7 @@
 <http://reagancoalition.com#this> 
  a schema:WebSite; 
  schema:name "Reagan Coalition"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/reagan-coalition/>,<https://www.facebook.com/tr?id>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/reagan-coalition/>;
  schema:description"""Fact and Bias check for "reagancoalition.com"""";
  mbfc:hasFacts mbfc:FAKE;
  mbfc:hasBias mbfc:FAKE-NEWS.
@@ -11241,7 +11241,7 @@
 <http://www.yesmagazine.org#this> 
  a schema:WebSite; 
  schema:name "Yes Magazine"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/yes-magazine/>,<https://www.facebook.com/tr?id>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/yes-magazine/>;
  schema:description"""Fact and Bias check for "yesmagazine.org"""";
  mbfc:hasFacts mbfc:HIGH;
  mbfc:hasBias mbfc:LEFT.
@@ -11401,7 +11401,7 @@
 <http://www.npr.org/sections/news#this> 
  a schema:WebSite; 
  schema:name "NPR (National Public Radio)"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/npr/>,<https://www.facebook.com/tr?id>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/npr/>;
  schema:description"""Fact and Bias check for "npr.org"""";
  mbfc:hasFacts mbfc:HIGH;
  mbfc:hasBias mbfc:LEFT-CENTER.
@@ -11481,7 +11481,7 @@
 <http://www.thewhim.com#this> 
  a schema:WebSite; 
  schema:name "The Whim"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/the-whim/>,<https://www.facebook.com/tr?id>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/the-whim/>;
  schema:description"""Fact and Bias check for "thewhim.com"""";
  mbfc:hasFacts mbfc:HIGH;
  mbfc:hasBias mbfc:CENTER.
@@ -12169,7 +12169,7 @@
 <https://www.scoopwhoop.com#this> 
  a schema:WebSite; 
  schema:name "ScoopWhoop"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/scoopwhoop/>,<https://www.facebook.com/tr?id>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/scoopwhoop/>;
  schema:description"""Fact and Bias check for "scoopwhoop.com"""";
  mbfc:hasFacts mbfc:MIXED;
  mbfc:hasBias mbfc:LEFT-CENTER.
@@ -12569,7 +12569,7 @@
 <http://www.csicop.org#this> 
  a schema:WebSite; 
  schema:name "Committee for Skeptical Inquiry"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/committee-for-skeptical-inquiry/>,<https://www.facebook.com/tr?id>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/committee-for-skeptical-inquiry/>;
  schema:description"""Fact and Bias check for "csicop.org"""";
  mbfc:hasFacts mbfc:VERY-HIGH;
  mbfc:hasBias mbfc:PRO-SCIENCE.
@@ -12841,7 +12841,7 @@
 <https://www.upworthy.com#this> 
  a schema:WebSite; 
  schema:name "Upworthy"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/upworthy/>,<https://www.facebook.com/tr?id>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/upworthy/>;
  schema:description"""Fact and Bias check for "upworthy.com"""";
  mbfc:hasFacts mbfc:HIGH;
  mbfc:hasBias mbfc:LEFT.
@@ -12993,7 +12993,7 @@
 <http://www.soas.ac.uk/lmei/meil#this> 
  a schema:WebSite; 
  schema:name "The Middle East in London"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/the-middle-east-in-london/>,<https://www.facebook.com/tr?id>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/the-middle-east-in-london/>;
  schema:description"""Fact and Bias check for "soas.ac.uk"""";
  mbfc:hasFacts mbfc:HIGH;
  mbfc:hasBias mbfc:CENTER.
@@ -13865,7 +13865,7 @@
 <http://highline.huffingtonpost.com#this> 
  a schema:WebSite; 
  schema:name "Highline"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/highline/>,<https://www.facebook.com/tr?id>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/highline/>;
  schema:description"""Fact and Bias check for "highline.huffingtonpost.com"""";
  mbfc:hasFacts mbfc:HIGH;
  mbfc:hasBias mbfc:LEFT-CENTER.
@@ -14121,7 +14121,7 @@
 <http://www.inquisitr.com/news#this> 
  a schema:WebSite; 
  schema:name "Inquisitr"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/inquisitr/>,<https://www.facebook.com/tr?id>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/inquisitr/>;
  schema:description"""Fact and Bias check for "inquisitr.com"""";
  mbfc:hasFacts mbfc:MIXED;
  mbfc:hasBias mbfc:LEFT-CENTER.
@@ -14209,7 +14209,7 @@
 <https://alliedprogress.org#this> 
  a schema:WebSite; 
  schema:name "Allied Progress"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/allied-progress/>,<https://www.facebook.com/tr?id>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/allied-progress/>;
  schema:description"""Fact and Bias check for "alliedprogress.org"""";
  mbfc:hasFacts mbfc:HIGH;
  mbfc:hasBias mbfc:LEFT-CENTER.
@@ -15233,7 +15233,7 @@
 <https://www.thetrumpet.com#this> 
  a schema:WebSite; 
  schema:name "The Trumpet"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/the-trumpet/>,<https://www.facebook.com/tr?id>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/the-trumpet/>;
  schema:description"""Fact and Bias check for "thetrumpet.com"""";
  mbfc:hasFacts mbfc:MIXED;
  mbfc:hasBias mbfc:CONSPIRACY.
@@ -15497,7 +15497,7 @@
 <http://yellowhammernews.com#this> 
  a schema:WebSite; 
  schema:name "YellowHammer News"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/yellowhammer-news/>,<https://www.facebook.com/tr?id>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/yellowhammer-news/>;
  schema:description"""Fact and Bias check for "yellowhammernews.com"""";
  mbfc:hasFacts mbfc:HIGH;
  mbfc:hasBias mbfc:RIGHT.
@@ -15593,7 +15593,7 @@
 <http://gazette.com#this> 
  a schema:WebSite; 
  schema:name "Colorado Springs Gazette"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/colorado-springs-gazette/>,<https://www.facebook.com/tr?id>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/colorado-springs-gazette/>;
  schema:description"""Fact and Bias check for "gazette.com"""";
  mbfc:hasFacts mbfc:HIGH;
  mbfc:hasBias mbfc:RIGHT-CENTER.
@@ -15601,7 +15601,7 @@
 <https://www.riverbender.com#this> 
  a schema:WebSite; 
  schema:name "RiverBender.com"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/riverbender-com/>,<https://www.facebook.com/tr?id>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/riverbender-com/>;
  schema:description"""Fact and Bias check for "riverbender.com"""";
  mbfc:hasFacts mbfc:HIGH;
  mbfc:hasBias mbfc:CENTER.
@@ -15649,7 +15649,7 @@
 <https://mic.com#this> 
  a schema:WebSite; 
  schema:name "Mic"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/mic/>,<https://www.facebook.com/dialog/share?app>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/mic/>;
  schema:description"""Fact and Bias check for "mic.com"""";
  mbfc:hasFacts mbfc:HIGH;
  mbfc:hasBias mbfc:LEFT-CENTER.
@@ -15673,7 +15673,7 @@
 <http://www.react365.com#this> 
  a schema:WebSite; 
  schema:name "React 365"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/react-365/>,<https://www.facebook.com/Live>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/react-365/>;
  schema:description"""Fact and Bias check for "react365.com"""";
  mbfc:hasFacts mbfc:FAKE;
  mbfc:hasBias mbfc:FAKE-NEWS.
@@ -16289,7 +16289,7 @@
 <https://www.alec.org#this> 
  a schema:WebSite; 
  schema:name "American Legislative Exchange Council (ALEC)"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/american-legislative-exchange-council-alec/>,<https://www.facebook.com/tr?id>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/american-legislative-exchange-council-alec/>;
  schema:description"""Fact and Bias check for "alec.org"""";
  mbfc:hasFacts mbfc:MIXED;
  mbfc:hasBias mbfc:RIGHT.
@@ -16417,7 +16417,7 @@
 <http://downtrend.com#this> 
  a schema:WebSite; 
  schema:name "Downtrend"^^xsd:string;
- schema:mainEntityOfPage <https://mediabiasfactcheck.com/downtrend/>,<https://www.facebook.com/tr?id>;
+ schema:mainEntityOfPage <https://mediabiasfactcheck.com/downtrend/>;
  schema:description"""Fact and Bias check for "downtrend.com"""";
  mbfc:hasFacts mbfc:FAKE;
  mbfc:hasBias mbfc:FAKE-NEWS.
@@ -16549,3 +16549,4 @@
  schema:description"""Fact and Bias check for "philly.com"""";
  mbfc:hasFacts mbfc:HIGH;
  mbfc:hasBias mbfc:LEFT-CENTER.
+
