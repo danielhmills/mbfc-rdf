@@ -1,5 +1,4 @@
 @prefix mbfc: <https://github.com/danielhmills/mbfc-rdf/raw/master/mbfc.ttl#>.
-@prefix schema: <http://schema.org>.
 
 ## Vocabulary
 
@@ -18,84 +17,94 @@ schema:description "Property linking web site to accuracy rating";
 rdfs:domain schema:WebSite;
 rdfs:range schema:Thing.
 
-##Credibility Vocabulary
+##Credibility Class Vocabulary
+
+mbfs:CredibilityScope
+a rdfs:Class;
+schema:name "Credibility Scope";
+rdfs:subClassOf schema:Rating;
+
+mbfs:Bias
+a rdfs:Class;
+schema:name "Bias Rating";
+rdfs:subClassOf schema:Rating;
+
 
 mbfc:HIGH
-a schema:Thing;
-rdfs:subClassOf schema:Rating;
+a mbfs:CredibilityScope;
 schema:name "High Credibility";
 schema:description "Source Is Almost Always Credible.".
 
 mbfc:VERY-HIGH
-a schema:Thing;
-rdfs:subClassOf schema:Rating;
+a mbfs:CredibilityScope;
 schema:name "High Credibility";
 schema:description "Source Is Highly Credible.".
 
 mbfc:MIXED
-a schema:Thing;
-rdfs:subClassOf schema:Rating;
+a mbfs:CredibilityScope;
 schema:name "Mixed Credibility";
 schema:description "Source's credibility can vary.".
 
 mbfc:LOW
-a schema:Thing;
-rdfs:subClassOf schema:Rating;
+a mbfs:CredibilityScope;
 schema:name "Low Credibility";
 schema:description "Source rarely uses credible sources and is simply not trustworthy for reliable information.".
 
 mbfc:FAKE
-a schema:Thing;
-rdfs:subClassOf schema:Rating;
+a mbfs:CredibilityScope;
 schema:name "Fake News";
 schema:description "Source isn't credible".
 
 mbfc:SATIRE
-a schema:Thing;
-rdfs:subClassOf schema:Rating;
+a mbfs:CredibilityScope;
 schema:name "Fake News";
 schema:description "Source is satirical".
 
 ##Bias Vocabulary
 
-<#left>
-a schema:Thing;
-rdfs:subClassOf schema:Rating;
+mbfc:LEFT
+a mbfs:Bias;
 schema:name "Left Bias";
 schema:description "Source has a left-leaning bias".
 
-<#left-center>
-a schema:Thing;
-rdfs:subClassOf schema:Rating;
+mbfc:LEFT-CENTER
+a mbfs:Bias;
 schema:name "Center-Left Bias";
 schema:description "Source has a center-left-leaning bias".
 
-<#extreme-left>
-a schema:Thing;
-rdfs:subClassOf schema:Rating;
-schema:name "Extreme-Left Bias";
-schema:description "Source has an extreme-left-leaning bias".
-
-<#right>
-a schema:Thing;
-rdfs:subClassOf schema:Rating;
+mbfc:RIGHT
+a mbfs:Bias;
 schema:name "Right Bias";
 schema:description "Source has a right-leaning bias".
 
-<#right-center>
-a schema:Thing;
-rdfs:subClassOf schema:Rating;
+mbfc:RIGHT-CENTER
+a mbfs:Bias;
 schema:name "Center-Right Bias";
 schema:description "Source has a center-right-leaning bias".
 
-<#extreme-right>
-a schema:Thing;
-rdfs:subClassOf schema:Rating;
-schema:name "Extreme-Right Bias";
-schema:description "Source has an extreme-right-leaning bias".
-
-<#center>
-a schema:Thing;
-rdfs:subClassOf schema:Rating;
+mbfc:CENTER
+a mbfs:Bias;
 schema:name "Center Bias";
 schema:description "Source has a center-leaning bias".
+
+mbfc:SATIRICAL
+a mbfs:Bias;
+rdfs:subClassOf schema:Rating;
+schema:name "Center Bias";
+schema:description "Source is satirical".
+
+mbfc:FAKE-NEWS
+a mbfs:Bias;
+rdfs:subClassOf schema:Rating;
+schema:name "Center Bias";
+schema:description "Source is deemed to be fake news and purely misleading".
+
+mbfc:CONSPIRACY
+a mbfs:Bias;
+schema:name "Center Bias";
+schema:description "Source is focused on conspiracy theories".
+
+mbfc:PRO-SCIENCE
+a mbfs:Bias;
+schema:name "Center Bias";
+schema:description "Source is has a focus on science".
