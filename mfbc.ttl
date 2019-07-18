@@ -8,14 +8,14 @@ a rdf:Property;
 schema:name "hasBias";
 schema:description "Property linking web site to bias Level";
 rdfs:domain schema:WebSite;
-rdfs:range schema:Thing.
+rdfs:range mbfc:Bias.
 
 mbfc:givesFacts
 a rdf:Property;
 schema:name "givesFacts";
 schema:description "Property linking web site to accuracy rating";
 rdfs:domain schema:WebSite;
-rdfs:range schema:Thing.
+rdfs:range mbfc:CredibilityScope.
 
 ##Credibility Class Vocabulary
 
