@@ -4,11 +4,11 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
-@prefix mbfc: <http://kingsley.idehen.net/DAV/home/danielhm/Public/mfbc-data.ttl#>.
+@prefix mbfc: <https://github.com/danielhmills/mbfc-rdf/raw/master/mbfc-data.ttl#>
 
-# Vocabulary
+## Vocabulary
 
-# Property Vocabulary
+##Property Vocabulary
 mbfc:hasBias
 a rdf:Property;
 schema:name "hasBias";
@@ -23,7 +23,7 @@ schema:description "Property linking web site to accuracy rating";
 rdfs:domain schema:WebSite;
 rdfs:range schema:Thing.
 
-# Credibility Vocabulary
+##Credibility Vocabulary
 
 <#HIGH>
 a schema:Thing;
@@ -43,7 +43,7 @@ rdfs:subClassOf schema:Rating;
 schema:name "Low Credibility";
 schema:description "source rarely uses credible sources and is simply not trustworthy for reliable information.".
 
-# Bias Vocabulary
+##Bias Vocabulary
 
 <#left>
 a schema:Thing;
@@ -86,8 +86,6 @@ a schema:Thing;
 rdfs:subClassOf schema:Rating;
 schema:name "Center Bias";
 schema:description "Source has a center-leaning bias".
-
-#Data
 
 <http://mediabiasfactcheck.com/the-village-voice/source> a schema:WebSite ;
 	schema:mainEntityOfPage "http://www.villagevoice.com/" ;
