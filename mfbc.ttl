@@ -1,4 +1,4 @@
-@prefix mbfc: <https://github.com/danielhmills/mbfc-rdf/raw/master/mfbc.ttl#>.
+@prefix mbfc: <https://github.com/danielhmills/mbfc-rdf/raw/master/mbfc.ttl#>.
 
 ## Vocabulary
 
